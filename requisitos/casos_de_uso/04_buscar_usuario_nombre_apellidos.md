@@ -7,7 +7,7 @@
 **Actores secundarios**: Usuario
 
 **Precondiciones**:
-* Ninguna
+> Ninguna
 
 **Flujo principal**:
 1. El administrador desea consultar los datos de un usuario
@@ -17,8 +17,8 @@
 
 **Postcondiciones**:
 
-* Se muestran al administrador las distintas operaciones relativas al usuario
+> Se muestran al administrador las distintas operaciones relativas al usuario
 
 **Flujos alternativos**:
 
-4.a. Si no existe el usuario, se muestra un mensaje de error
+> Si no existe el usuario, se muestra un mensaje de error
